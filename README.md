@@ -35,7 +35,7 @@ pip install selenium
 1. Run the script using Python:
 
 ```bash
-python cookie_clicker.py
+python main.py
 ```
 
 2. Sit back and relax while the script automates your Cookie Clicker gameplay.
